@@ -1,0 +1,6 @@
+AIzaSyAVyOD_rrR-qXXLxX0saeI4FImKJjhL8jQ
+npm install axios
+AIzaSyDcKwkbNnRdaHlk2IJ8Z1b-OXCyb6YUVgE
+const {VideoId}=this.state.data.id.VideoId;
+{ VideoId }=this.state.data.items.id;
+const { channelTitle, description, thumbnail, title }=this.state.data.items.snippet;
